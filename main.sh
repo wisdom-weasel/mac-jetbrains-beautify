@@ -32,7 +32,7 @@ do
           fi
 
           # If the user wants to surprisingly, recover the original icons.
-          if [ $1 = "--recover" ]
+          if [ ! -z $1 ] && [ $1 = "--recover" ]
           then
             echo " - $app $ver: Recovering icons..."
             rm "$icon"
