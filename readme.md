@@ -1,12 +1,12 @@
-#macOS JetBrains Products Ultimate Icon Beautifier
+# macOS JetBrains Products Ultimate Icon Beautifier
 
 ## It's June, 2022. We have flying cars and dancing bears. Yet, JetBrains still refuses to conform to the squarish icon design of macOS. Why, just why?
 
 ## That's when I come to the rescue! To save me from my OCD, and also making myself to have one less thing to blame my deteriorating productivity on!
 
-##Notice: This is for JetBrains products installed with JetBrains Toolbox. I have not tested this with other install methods yet.
+## Notice: This is for JetBrains products installed with JetBrains Toolbox. I have not tested this with other install methods yet.
 
-##Usage
+## Usage
 
 1. Go to `~/Library/Application Support/JetBrains/Toolbox/apps` to see which apps you have installed. While, for example, WebStorm is called WebStorm in the apps, PyCharm Professional is called PyCharm-P. Take note of these directory names.
 
@@ -19,7 +19,7 @@
 5. Profit!
 
 
-##Notes
+## Notes
 
 1. This will replace the icons which will show up on the dock, which is extremely hard to replace (which is why I wrote this script). To replace the launcher icons in launchpad, please download Pictogram [https://pictogramapp.com] to do that instead.
 
